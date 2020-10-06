@@ -1,5 +1,6 @@
 # IPL2020-Daily-Tweet-Analysis
-Analysing the Tweets containing #IPL2020 up until the date 24/09/2020.
+Analysing the Tweets containing #IPL2020 up until the date 24/09/2020 obtained from - 
+https://www.kaggle.com/kaushiksuresh147/ipl2020-tweets
 
 This constitutes tweets uploaded after the anouncement of IPL2020 till the 6th match which happened on 24/09
 
